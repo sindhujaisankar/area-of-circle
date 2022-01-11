@@ -1,0 +1,5 @@
+# area-of-circle
+python program to generate area of circle by getting radius as input
+r=int(input("enter the radius "))
+A=3.14*r*r
+print("The area of the circle with radius ",r,"is : ",A)
